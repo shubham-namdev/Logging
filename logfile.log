@@ -1,0 +1,8 @@
+2023-06-09 10:17:14,713: INFO - Informational Message!
+2023-06-09 10:17:14,713: WARNING - Warning Message!
+2023-06-09 10:17:14,713: ERROR - Error Message!
+2023-06-09 10:17:14,713: CRITICAL - Critical Message!
+2023-06-09 10:17:39,113: INFO - Informational Message!
+2023-06-09 10:17:39,113: WARNING - Warning Message!
+2023-06-09 10:17:39,113: ERROR - Error Message!
+2023-06-09 10:17:39,113: CRITICAL - Critical Message!
